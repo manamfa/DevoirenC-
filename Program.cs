@@ -52,6 +52,20 @@ namespace manamfasha
             Console.WriteLine(aff);
             Console.WriteLine("\n"); 
             }
+             
+
+             Queue que = new Queue(); 
+            que.Enqueue("TNS");  
+            que.Enqueue("TAS");  
+            que.Enqueue("AFO");  
+            que.Enqueue("VB");  
+            foreach (var queee in que)  
+            {
+            Console.WriteLine(queee);
+            Console.WriteLine("\n"); 
+            }
+
+
 
         }
     }
