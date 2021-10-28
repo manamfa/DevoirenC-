@@ -41,6 +41,18 @@ namespace manamfasha
              Console.WriteLine("\n"); 
             }
 
+
+            Stack stk = new Stack();  
+            stk.Push("chimie");  
+            stk.Push("economie");  
+            stk.Push("Biologie");  
+            stk.Push("Technologie");  
+            foreach (var aff in stk)  
+            {
+            Console.WriteLine(aff);
+            Console.WriteLine("\n"); 
+            }
+
         }
     }
 }
