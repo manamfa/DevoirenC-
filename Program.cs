@@ -14,8 +14,17 @@ namespace manamfasha
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-           
+            //Console.WriteLine("Hello World!");
+            ArrayList numbers = new ArrayList();  
+            numbers.Add(16);    //int
+            numbers.Add(15.3);  //float
+            numbers.Add("manamfasha");   //string
+            numbers.Add('M');     //char
+      
+            foreach (var nbr in numbers)  
+            {  
+            Console.Write("{0} ", nbr);
+            }
 
 
         }
