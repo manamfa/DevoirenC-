@@ -1,0 +1,13 @@
+C:\Users\MFASHA Theos\Desktop\manamfasha\obj\Debug\netcoreapp3.1\manamfasha.csprojAssemblyReference.cache
+C:\Users\MFASHA Theos\Desktop\manamfasha\obj\Debug\netcoreapp3.1\manamfasha.AssemblyInfoInputs.cache
+C:\Users\MFASHA Theos\Desktop\manamfasha\obj\Debug\netcoreapp3.1\manamfasha.AssemblyInfo.cs
+C:\Users\MFASHA Theos\Desktop\manamfasha\obj\Debug\netcoreapp3.1\manamfasha.csproj.CoreCompileInputs.cache
+C:\Users\MFASHA Theos\Desktop\manamfasha\bin\Debug\netcoreapp3.1\manamfasha.exe
+C:\Users\MFASHA Theos\Desktop\manamfasha\bin\Debug\netcoreapp3.1\manamfasha.deps.json
+C:\Users\MFASHA Theos\Desktop\manamfasha\bin\Debug\netcoreapp3.1\manamfasha.runtimeconfig.json
+C:\Users\MFASHA Theos\Desktop\manamfasha\bin\Debug\netcoreapp3.1\manamfasha.runtimeconfig.dev.json
+C:\Users\MFASHA Theos\Desktop\manamfasha\bin\Debug\netcoreapp3.1\manamfasha.dll
+C:\Users\MFASHA Theos\Desktop\manamfasha\bin\Debug\netcoreapp3.1\manamfasha.pdb
+C:\Users\MFASHA Theos\Desktop\manamfasha\obj\Debug\netcoreapp3.1\manamfasha.dll
+C:\Users\MFASHA Theos\Desktop\manamfasha\obj\Debug\netcoreapp3.1\manamfasha.pdb
+C:\Users\MFASHA Theos\Desktop\manamfasha\obj\Debug\netcoreapp3.1\manamfasha.genruntimeconfig.cache
